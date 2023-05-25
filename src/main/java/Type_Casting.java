@@ -24,9 +24,18 @@ public class Type_Casting {
 
         System.out.println(sayi2);
 
-      //Byte data t!p!nde b!r deg!sken olusturunuz ve onu b!r double deg!sken!ne dönüstürünüz.
+      // 5) Byte data t!p!nde b!r deg!sken olusturunuz ve onu b!r double deg!sken!ne dönüstürünüz.
         //Sonrasında bu double deg!sken!n deger!n! konsolda yazdırınız.
         //Not : Çıktıya dikkat ediniz, ondalık bir deger olmayacaktır.
+
+        byte by = 23;
+        double db= by;
+        System.out.println(db);
+
+
+
+
+
 
 
     }
